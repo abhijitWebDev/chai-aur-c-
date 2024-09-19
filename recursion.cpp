@@ -29,10 +29,13 @@ int funcTrib(int n){
     return funcTrib(n-1) + funcTrib(n-2) + funcTrib(n-3);
 }
 
+int functionPow(int x, n) {
+    if(n==0) return x;
+    return x * functionPow(x, n-1);
+}
 
 
 int main() {
-
     int n = 25;
 
     cout << "Fibnacci of " << n << " is " << funcFib(n) << endl;
