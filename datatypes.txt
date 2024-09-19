@@ -1,0 +1,19 @@
+Datatype in C++
+
+Different data types in c++
+4 and 4.0 are different
+
+
+Datatypes are Primitive, Derived and user-defined.
+
+Primitive types are those, which are stored in the memory (ie basic unit)
+
+Derived are based on Primitive. which we can also say enhanced version of Primitive
+
+User defined are those, which are defined by users ie example form or information we fill for a bank
+
+Primitive : int, float, double, char, boolean, void, short, long, long long
+
+Derived: Array(Collection of similar data types), Function, Pointer(points to memory address), reference.
+
+User defined: Structure, Union, Enum, Class, TypeDef
