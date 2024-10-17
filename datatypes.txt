@@ -17,3 +17,6 @@ Primitive : int, float, double, char, boolean, void, short, long, long long
 Derived: Array(Collection of similar data types), Function, Pointer(points to memory address), reference.
 
 User defined: Structure, Union, Enum, Class, TypeDef
+
+
+	
